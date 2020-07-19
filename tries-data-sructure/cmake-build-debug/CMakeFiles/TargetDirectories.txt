@@ -1,0 +1,3 @@
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/cmake-build-debug/CMakeFiles/tries_data_sructure.dir
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

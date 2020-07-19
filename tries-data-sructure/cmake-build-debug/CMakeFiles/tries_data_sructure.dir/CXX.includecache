@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/main.cpp
+tries.h
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/tries.h
+
+C:/Users/alost/OneDrive/Escritorio/tries-data-sructure/tries.h
+iostream
+-
+vector
+-
+map
+-
+fstream
+-
+
